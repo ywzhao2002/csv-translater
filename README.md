@@ -1,6 +1,6 @@
-A CSV translater
+A CSV translater with Google Cloud Translation API from Target Language to Source Language
 
-CSV File Format:
+Input CSV File Format:
 
 source | target
 --- | ---
